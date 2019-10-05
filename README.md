@@ -2,4 +2,4 @@
 
 # RTF::Encode
 
-A Perl library to escapes string into RTF.
+A Perl library to escape strings into RTF.
