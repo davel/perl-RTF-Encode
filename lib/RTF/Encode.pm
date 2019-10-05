@@ -1,6 +1,8 @@
 package RTF::Encode;
 # vim:ts=4:shiftwidth=4:expandtab
 
+# ABSTRACT: Escapes string into RTF
+
 use strict;
 use warnings;
 
