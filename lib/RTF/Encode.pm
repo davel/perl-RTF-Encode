@@ -10,7 +10,7 @@ our $VERSION = '1.00';
 
 =head1 NAME
 
-RTF::Encode
+RTF::Encode - Escapes strings into RTF
 
 =head1 SYNOPSIS
 
