@@ -15,7 +15,7 @@ RTF::Encode - Escapes strings into RTF
 =head1 SYNOPSIS
 
     use RTF::Encode qw/ encode_rtf /;
-    print encode_rtf("Smiling cat with heart shaped eyes, ".chr(0x1f63b);
+    print encode_rtf("Smiling cat with heart shaped eyes, ".chr(0x1f63b));
 
 =cut
 
